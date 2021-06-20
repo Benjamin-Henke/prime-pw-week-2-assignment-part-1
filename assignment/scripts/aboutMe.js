@@ -1,15 +1,13 @@
 // REQUIRED FEATURES:
 // 1 - Create a variable called `firstName` and assign it the value of your first name
 let firstName = 'Benjamin';
-console.log(firstName);
 
 // 2 - Create a second variable called `lastName` and assign it the value of your last name
 let lastName = 'Henke';
-console.log(lastName);
 
 // 3 - Create a third variable called `fullName`, assign it the value of your first and last name
 // (remember, you already have variables for this, can you use those?)
-let fullName = firstName +" "+ lastName; //COMEBACK TOO, can't get space between first and last name.
+let fullName = firstName +" "+ lastName;
 
 // 4 - Console log the value of `fullName`
 console.log(fullName);
@@ -87,6 +85,8 @@ else if (pets > allowedPets) {
 // assigns the highest value to `mostPets`. There's several possibilities --
 // be sure to think through all the scenarios.
 // console.log `mostPets` after the conditional has run.
+let mostPets
+if ()
 
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
 
